@@ -8,7 +8,9 @@
 
 <p align="center">
   <a href="https://discord.gg/Ayoub699"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="mailto:trabelsi.ayoub1998@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+<p align="center">
+  <a href="mailto:trabelsi.ayoub1998@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 <a href="https://github.com/DesTroTN?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/devpayoub?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
