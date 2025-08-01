@@ -77,7 +77,7 @@
     <td width="50%">
       <h3 align="center">CRUD Test App</h3>
       <p align="center">
-        <a href="https://github.com/devpayoub/crud-supabase-test" target="_blank">
+        <a href="https://github.com/devpayoub/CRUD-supabase" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=devpayoub&repo=crud-supabase-test&theme=gruvbox&hide_border=true">
         </a>
       </p>
@@ -89,7 +89,7 @@
       <h3 align="center">More Projects</h3>
       <p align="center">
         <a href="https://github.com/devpayoub?tab=repositories">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=devpayoub&repo=your-other-repo&theme=gruvbox&hide_border=true">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=devpayoub&repo=https://github.com/devpayoub/JWT-Token-Management-with-Supabase&theme=gruvbox&hide_border=true">
         </a>
       </p>
     </td>
